@@ -120,3 +120,28 @@ header ul {
   font-size: 60px;
   font-weight: bold;
 }
+
+.fourth {
+  height: 500px;
+  font-size: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fourth-container {
+  background-color: #3882fa;
+  width: 70%;
+  height: 40%;
+  border-radius: 10px;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.fourth-container-right {
+  padding: 3px 8px;
+  border: solid 3px white;
+  border-radius: 8px;
+}
