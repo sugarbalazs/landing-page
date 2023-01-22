@@ -81,6 +81,7 @@ header ul {
 
 .second {
   text-align: center;
+  padding-bottom: 40px;
 }
 
 .second-title {
@@ -144,4 +145,14 @@ header ul {
   padding: 3px 8px;
   border: solid 3px white;
   border-radius: 8px;
+}
+
+.last-section {
+  height: 80px;
+  background-color: #1f2937;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: bold;
 }
