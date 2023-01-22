@@ -8,6 +8,12 @@ body {
   min-height: 100vh;
 }
 
+img {
+  width: 200px;
+  height: 300px;
+  border-radius: 8px;
+}
+
 .header-container {
   padding-top: 30px;
   padding-bottom: 50px;
@@ -71,4 +77,27 @@ header ul {
 
 .header-main-left {
   padding: 8px 0;
+}
+
+.second {
+  text-align: center;
+}
+
+.second-title {
+  padding: 30px 0px;
+  font-size: 40px;
+  font-weight: 1000;
+}
+
+.section-two-container {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+.info {
+  max-width: 200px;
+  font-size: 36px;
+  font-style: italic;
+  color: #1f2937;
 }
